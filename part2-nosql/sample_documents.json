@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "E101",
+    "name": "Smartphone X",
+    "category": "Electronics",
+    "price": 30000,
+    "brand": "Samsung",
+    "specs": {
+      "warranty_years": 2,
+      "voltage": "220V",
+      "battery": "5000mAh"
+    },
+    "features": ["5G", "AMOLED Display", "Fast Charging"]
+  },
+  {
+    "_id": "C201",
+    "name": "Men's Jacket",
+    "category": "Clothing",
+    "price": 2500,
+    "brand": "Zara",
+    "sizes": ["S", "M", "L", "XL"],
+    "material": "Leather",
+    "colors": ["Black", "Brown"]
+  },
+  {
+    "_id": "G301",
+    "name": "Organic Milk",
+    "category": "Groceries",
+    "price": 60,
+    "brand": "Amul",
+    "expiry_date": "2024-12-01",
+    "nutrition": {
+      "calories": 150,
+      "fat": "8g",
+      "protein": "6g"
+    }
+  }
+]
